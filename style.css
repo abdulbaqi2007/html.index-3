@@ -1,0 +1,79 @@
+#paragraph{
+    margin-left: 1.2%;
+    font-size: 13px;
+    margin-top: -1.3%;
+}
+#survey{
+    margin-left: 3%;
+}
+#description{
+    margin-left: 30%;
+    margin-top: -2.2%;
+}
+#container{
+    border: 1px solid black;
+    height: 19%;
+    width: 60%;
+}
+#completer{
+    margin-left: 0.9%;
+}
+#heure{
+    margin-left: 30%;
+    margin-top: -3.3%;
+}
+#lieu{
+    margin-left: 60%;
+    margin-top: -3.7%;
+    margin-bottom: 1%;
+}
+#signature{
+    margin-left: 20%;
+    margin-top: -2%;
+}
+#expert{
+      font-size: 13px;
+      margin-left: 19%;
+}
+#animer{
+    font-size: 13px;
+      margin-left: 19.8%;
+      margin-top: -0.8%;
+}
+#stagiaire{
+    margin-left: 50%;
+    margin-top: -5%;
+}
+#Johanne{
+    margin-left: 19%;
+    font-size: 13px;
+}
+#Autorisation{
+    margin-left: 19%;
+    font-size: 13px;
+    margin-top: -1%;
+}
+#title{
+    margin-left: 20%;
+}
+#header{
+    margin-left: 8%;
+}
+.cas{
+    font-size: 10px;
+}
+#comptable{
+    margin-left: 10%;
+}
+#cas-second{
+    margin-top: -1.1%;
+    margin-left: 1.5%;
+    opacity: 0.5;
+}
+#cas-ninth{
+    margin-left: 1.5%;
+    margin-top:  -1%;
+}
+#conatinar{
+    margin-left: 1%;
+}
